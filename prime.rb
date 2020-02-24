@@ -1,4 +1,4 @@
-def prime?(int)
+def prime(int)
   if int < 0 || int == 0 || integer == 1
       false
     else
